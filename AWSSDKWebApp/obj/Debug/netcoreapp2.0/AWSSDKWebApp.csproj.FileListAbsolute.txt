@@ -1,0 +1,10 @@
+/home/priyal/RiderProjects/AWSSDKWebApp/AWSSDKWebApp/bin/Debug/netcoreapp2.0/AWSSDKWebApp.deps.json
+/home/priyal/RiderProjects/AWSSDKWebApp/AWSSDKWebApp/bin/Debug/netcoreapp2.0/AWSSDKWebApp.runtimeconfig.json
+/home/priyal/RiderProjects/AWSSDKWebApp/AWSSDKWebApp/bin/Debug/netcoreapp2.0/AWSSDKWebApp.runtimeconfig.dev.json
+/home/priyal/RiderProjects/AWSSDKWebApp/AWSSDKWebApp/bin/Debug/netcoreapp2.0/AWSSDKWebApp.dll
+/home/priyal/RiderProjects/AWSSDKWebApp/AWSSDKWebApp/bin/Debug/netcoreapp2.0/AWSSDKWebApp.pdb
+/home/priyal/RiderProjects/AWSSDKWebApp/AWSSDKWebApp/obj/Debug/netcoreapp2.0/AWSSDKWebApp.csproj.CoreCompileInputs.cache
+/home/priyal/RiderProjects/AWSSDKWebApp/AWSSDKWebApp/obj/Debug/netcoreapp2.0/AWSSDKWebApp.AssemblyInfoInputs.cache
+/home/priyal/RiderProjects/AWSSDKWebApp/AWSSDKWebApp/obj/Debug/netcoreapp2.0/AWSSDKWebApp.AssemblyInfo.cs
+/home/priyal/RiderProjects/AWSSDKWebApp/AWSSDKWebApp/obj/Debug/netcoreapp2.0/AWSSDKWebApp.dll
+/home/priyal/RiderProjects/AWSSDKWebApp/AWSSDKWebApp/obj/Debug/netcoreapp2.0/AWSSDKWebApp.pdb

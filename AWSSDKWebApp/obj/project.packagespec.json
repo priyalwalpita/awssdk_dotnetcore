@@ -1,0 +1,53 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/home/priyal/RiderProjects/AWSSDKWebApp/AWSSDKWebApp/AWSSDKWebApp.csproj",
+    "projectName": "AWSSDKWebApp",
+    "projectPath": "/home/priyal/RiderProjects/AWSSDKWebApp/AWSSDKWebApp/AWSSDKWebApp.csproj",
+    "outputPath": "/home/priyal/RiderProjects/AWSSDKWebApp/AWSSDKWebApp/obj/",
+    "projectStyle": "PackageReference",
+    "originalTargetFrameworks": [
+      "netcoreapp2.0"
+    ],
+    "frameworks": {
+      "netcoreapp2.0": {
+        "projectReferences": {}
+      }
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.0": {
+      "dependencies": {
+        "Microsoft.NETCore.App": {
+          "target": "Package",
+          "version": "2.0.0"
+        },
+        "AWSSDK.Core": {
+          "target": "Package",
+          "version": "3.3.21.11"
+        },
+        "AWSSDK.Extensions.NETCore.Setup": {
+          "target": "Package",
+          "version": "3.3.4"
+        },
+        "AWSSDK.KeyManagementService": {
+          "target": "Package",
+          "version": "3.3.5"
+        },
+        "AWSSDK.S3": {
+          "target": "Package",
+          "version": "3.3.17"
+        },
+        "Microsoft.AspNetCore.All": {
+          "target": "Package",
+          "version": "2.0.0"
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}
